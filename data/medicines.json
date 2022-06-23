@@ -1,0 +1,1393 @@
+[{
+        "name": "alendronate tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "acyclovir capsule",
+        "initialqty": 3
+    },
+    {
+        "name": "acyclovir tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "albuterol inhalation solution",
+        "initialqty": 2
+    },
+    {
+        "name": "albuterol sulfate",
+        "initialqty": 2
+    },
+    {
+        "name": "alclometasone dipropionate cream",
+        "initialqty": 3
+    },
+    {
+        "name": "alfuzosin hcl",
+        "initialqty": 2
+    },
+    {
+        "name": "alitretinoin",
+        "initialqty": 3
+    },
+    {
+        "name": "allopurinol tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "alprazolam",
+        "initialqty": 3
+    },
+    {
+        "name": "altretamine",
+        "initialqty": 3
+    },
+    {
+        "name": "amiodarone tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "amitriptyline tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "amlodipine and valsartan",
+        "initialqty": 3
+    },
+    {
+        "name": "amlodipine besylate",
+        "initialqty": 3
+    },
+    {
+        "name": "amlodipine",
+        "initialqty": "valsartan"
+    },
+    {
+        "name": "Amlodipine/Benazepril capsule",
+        "initialqty": 1
+    },
+    {
+        "name": "amoxapine tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "anastrazole",
+        "initialqty": 1
+    },
+    {
+        "name": "antihypertensive combinations",
+        "initialqty": 2
+    },
+    {
+        "name": "Arsenic Trioxide",
+        "initialqty": 2
+    },
+    {
+        "name": "artificial tears 1.4% drops (OTC)",
+        "initialqty": 1
+    },
+    {
+        "name": "aspirin EC tablet (OTC)",
+        "initialqty": 2
+    },
+    {
+        "name": "atenolol tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "atenolol/chlorthalidone tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "atorvastatin calcium",
+        "initialqty": 3
+    },
+    {
+        "name": "augmented betamethasone dipropionate",
+        "initialqty": 2
+    },
+    {
+        "name": "azathioprine",
+        "initialqty": 1
+    },
+    {
+        "name": "azelastine",
+        "initialqty": 2
+    },
+    {
+        "name": "Azelastine nasal spray",
+        "initialqty": 1
+    },
+    {
+        "name": "baclofen tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "Belladonna Alkaloids with Phenobarbital",
+        "initialqty": 2
+    },
+    {
+        "name": "benazepril HCTZ tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "benazepril tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "benzonatate",
+        "initialqty": 3
+    },
+    {
+        "name": "benzonatate capsule",
+        "initialqty": 2
+    },
+    {
+        "name": "benztropine tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "bethanechol tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "bicalutamide",
+        "initialqty": 2
+    },
+    {
+        "name": "bisoprolol/HCTZ tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "Bleomycin",
+        "initialqty": 3
+    },
+    {
+        "name": "Bortezomib",
+        "initialqty": 1
+    },
+    {
+        "name": "brimonidine tartrate",
+        "initialqty": 2
+    },
+    {
+        "name": "bromocriptine tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "budesonide inhalation suspension",
+        "initialqty": 2
+    },
+    {
+        "name": "bupropion hcl",
+        "initialqty": 2
+    },
+    {
+        "name": "bupropion hcl",
+        "initialqty": 3
+    },
+    {
+        "name": "bupropion HCL tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "buspirone tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "Calcitonin-salmon (rDNA origin)",
+        "initialqty": 1
+    },
+    {
+        "name": "calcitriol capsule",
+        "initialqty": 1
+    },
+    {
+        "name": "calcium acetate",
+        "initialqty": 2
+    },
+    {
+        "name": "candesartan cilexetil-hydrochlorothiazide",
+        "initialqty": 3
+    },
+    {
+        "name": "candesartan cilextil",
+        "initialqty": 1
+    },
+    {
+        "name": "capsaicin cream",
+        "initialqty": "0.035% (OTC)"
+    },
+    {
+        "name": "captopril tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "carbamazepine tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "carbidopa/levo SR tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "carbidopa/levo tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "carvedilol",
+        "initialqty": 3
+    },
+    {
+        "name": "cetirizine HCl tablet - OTC",
+        "initialqty": 2
+    },
+    {
+        "name": "cevimeline HCl",
+        "initialqty": 2
+    },
+    {
+        "name": "chlordiazepoxide capsule",
+        "initialqty": 3
+    },
+    {
+        "name": "chlorpromazine HCL",
+        "initialqty": 3
+    },
+    {
+        "name": "chlorthalidone tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "cholestyramine",
+        "initialqty": 2
+    },
+    {
+        "name": "cilostazol tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "citalopram tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "Cladribine",
+        "initialqty": 3
+    },
+    {
+        "name": "clindamycin phosphate",
+        "initialqty": 3
+    },
+    {
+        "name": "Clofarabine",
+        "initialqty": 3
+    },
+    {
+        "name": "clomipramine hcl",
+        "initialqty": 2
+    },
+    {
+        "name": "clonazepam tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "clonidine HCL tablets",
+        "initialqty": 1
+    },
+    {
+        "name": "clonidine patch",
+        "initialqty": 3
+    },
+    {
+        "name": "clopidogrel bisulfate tablets",
+        "initialqty": 2
+    },
+    {
+        "name": "clotrimazole/betamethasone cream",
+        "initialqty": 1
+    },
+    {
+        "name": "colestipol hcl",
+        "initialqty": 2
+    },
+    {
+        "name": "Cytarabine",
+        "initialqty": 3
+    },
+    {
+        "name": "decitabine",
+        "initialqty": 2
+    },
+    {
+        "name": "Dexmethylphenidate HCl tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "dextroamphetamine sulfate ER capsule",
+        "initialqty": 1
+    },
+    {
+        "name": "dextroamphetamine-amphetamine ER capsule",
+        "initialqty": 1
+    },
+    {
+        "name": "dextroamphetamine-amphetamine tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "diazepam tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "diclofenac EC tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "diclofenac ER tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "dicyclomine capsule",
+        "initialqty": 1
+    },
+    {
+        "name": "dicyclomine tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "digoxin tablets",
+        "initialqty": 1
+    },
+    {
+        "name": "diltiazem ER capsule",
+        "initialqty": 3
+    },
+    {
+        "name": "diltiazem hcl cd",
+        "initialqty": 1
+    },
+    {
+        "name": "diphenoxylate hydrochloride/atropine sulfate",
+        "initialqty": 3
+    },
+    {
+        "name": "diphenoxylate/atropine tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "Divalproex DR tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "donepezil HCI",
+        "initialqty": 2
+    },
+    {
+        "name": "dorzolamide HCL",
+        "initialqty": 1
+    },
+    {
+        "name": "doxazosin mesylate",
+        "initialqty": 3
+    },
+    {
+        "name": "doxepin capsule",
+        "initialqty": 2
+    },
+    {
+        "name": "Doxorubicin",
+        "initialqty": 1
+    },
+    {
+        "name": "enalapril maleate tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "enalapril maleate-hydrochlorothiazide tablets",
+        "initialqty": 2
+    },
+    {
+        "name": "epinephrine auto injector",
+        "initialqty": 3
+    },
+    {
+        "name": "eplerenone tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "escitalopram oxalate",
+        "initialqty": 1
+    },
+    {
+        "name": "escitalopram oxalate",
+        "initialqty": 2
+    },
+    {
+        "name": "escitalopram oxalate",
+        "initialqty": 1
+    },
+    {
+        "name": "esomeprazole DR capsule",
+        "initialqty": 2
+    },
+    {
+        "name": "estradiol tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "estropipate tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "eszopiclone",
+        "initialqty": 2
+    },
+    {
+        "name": "etodolac capsule",
+        "initialqty": 1
+    },
+    {
+        "name": "etodolac tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "Etoposide",
+        "initialqty": 1
+    },
+    {
+        "name": "famotidine tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "felodipine ER tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "fenofibrate",
+        "initialqty": 2
+    },
+    {
+        "name": "fenofibrate",
+        "initialqty": "micronized capsule"
+    },
+    {
+        "name": "fenofibric acid DR capsule",
+        "initialqty": 2
+    },
+    {
+        "name": "ferrous sulfate EC tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "finasteride tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "flecainide acetate tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "fluconazole",
+        "initialqty": 1
+    },
+    {
+        "name": "Fludarabine Phosphate",
+        "initialqty": 3
+    },
+    {
+        "name": "fluoxetine capsule",
+        "initialqty": 1
+    },
+    {
+        "name": "fluticasone nasal spray (50 mcg)",
+        "initialqty": 2
+    },
+    {
+        "name": "fluvoxamine maleate tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "folic acid 2.2 tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "folic acid tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "Fulvestrant",
+        "initialqty": 2
+    },
+    {
+        "name": "furosemide tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "gabapentin",
+        "initialqty": 3
+    },
+    {
+        "name": "gemfibrozil",
+        "initialqty": 3
+    },
+    {
+        "name": "glatiramer acetate",
+        "initialqty": 1
+    },
+    {
+        "name": "glimepiride",
+        "initialqty": 3
+    },
+    {
+        "name": "glipizide",
+        "initialqty": 1
+    },
+    {
+        "name": "glipizide extended release",
+        "initialqty": 1
+    },
+    {
+        "name": "glyburide tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "glyburide/Metformin tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "guanfacine",
+        "initialqty": 2
+    },
+    {
+        "name": "halobetasol prop ointment",
+        "initialqty": "0.05%"
+    },
+    {
+        "name": "haloperidol tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "hydralazine tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "hydrochlorothiazide capsule",
+        "initialqty": 3
+    },
+    {
+        "name": "hydrochlorothiazide tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "hydrocortisone tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "hydroxychloroquine tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "hydroxyurea capsule",
+        "initialqty": 1
+    },
+    {
+        "name": "hydroxyzine HCL tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "hydroxyzine pamoate",
+        "initialqty": 3
+    },
+    {
+        "name": "ibuprofen tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "indapamide tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "Ipratropium/Albuterol Inhalation Solution",
+        "initialqty": 3
+    },
+    {
+        "name": "irbesartan",
+        "initialqty": 3
+    },
+    {
+        "name": "irbesartan-hydrochlorothiazide",
+        "initialqty": 2
+    },
+    {
+        "name": "isoniazid tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "isosorbide mononitrate",
+        "initialqty": 3
+    },
+    {
+        "name": "isosorbide mononitrate (10mg",
+        "initialqty": "20mg)"
+    },
+    {
+        "name": "isosorbide mononitrate (10mg",
+        "initialqty": "20mg)"
+    },
+    {
+        "name": "ketotifen fumerate OTC solution",
+        "initialqty": 3
+    },
+    {
+        "name": "labetalol HCL tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "lactulose oral solution",
+        "initialqty": 2
+    },
+    {
+        "name": "lamotrigine",
+        "initialqty": 1
+    },
+    {
+        "name": "lansoprazole DR capsule",
+        "initialqty": 1
+    },
+    {
+        "name": "latanoprost solution",
+        "initialqty": 2
+    },
+    {
+        "name": "letrozole",
+        "initialqty": 3
+    },
+    {
+        "name": "Leucovorin Calcium",
+        "initialqty": 2
+    },
+    {
+        "name": "levalbuterol hcl",
+        "initialqty": 1
+    },
+    {
+        "name": "levetiracetam ER",
+        "initialqty": 3
+    },
+    {
+        "name": "levetiracetam tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "levocetirizine dihydrochloride",
+        "initialqty": 2
+    },
+    {
+        "name": "levothyroxine",
+        "initialqty": 1
+    },
+    {
+        "name": "levothyroxine",
+        "initialqty": 1
+    },
+    {
+        "name": "lidocaine 2% viscous solution",
+        "initialqty": 3
+    },
+    {
+        "name": "lidocaine patch 5%",
+        "initialqty": 1
+    },
+    {
+        "name": "liothyronine sodium",
+        "initialqty": 3
+    },
+    {
+        "name": "lisinopril tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "lisinopril tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "lisinopril/HCTZ tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "lisinopril/HCTZ tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "Lithium Carbonate capsule",
+        "initialqty": 2
+    },
+    {
+        "name": "loperamide capsule",
+        "initialqty": 2
+    },
+    {
+        "name": "loratadine OTC tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "lorazepam tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "losartan potassium",
+        "initialqty": 1
+    },
+    {
+        "name": "lovastatin tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "loxapine capsule",
+        "initialqty": 1
+    },
+    {
+        "name": "magnesium oxide tablet (OTC)",
+        "initialqty": 3
+    },
+    {
+        "name": "meclizine HCI",
+        "initialqty": 3
+    },
+    {
+        "name": "medroxyprogesterone acetate",
+        "initialqty": 3
+    },
+    {
+        "name": "meloxicam",
+        "initialqty": 1
+    },
+    {
+        "name": "Melphalan HCL",
+        "initialqty": 2
+    },
+    {
+        "name": "memantine hcl",
+        "initialqty": 3
+    },
+    {
+        "name": "Mesna",
+        "initialqty": 1
+    },
+    {
+        "name": "metformin",
+        "initialqty": 3
+    },
+    {
+        "name": "metformin hcl",
+        "initialqty": "extended release"
+    },
+    {
+        "name": "methimazole tablets",
+        "initialqty": 2
+    },
+    {
+        "name": "methocarbamol tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "methotrexate",
+        "initialqty": 2
+    },
+    {
+        "name": "methylphenidate CD capsule",
+        "initialqty": 1
+    },
+    {
+        "name": "methylphenidate hcl",
+        "initialqty": 1
+    },
+    {
+        "name": "methylphenidate tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "metoclopramide HCL tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "metolazone tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "metoprolol succinate/hctz",
+        "initialqty": 2
+    },
+    {
+        "name": "metoprolol tartrate tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "micronized glyburide",
+        "initialqty": 2
+    },
+    {
+        "name": "midodrine HCl tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "minocycline capsule",
+        "initialqty": 2
+    },
+    {
+        "name": "minocycline HCL capsule",
+        "initialqty": 1
+    },
+    {
+        "name": "mirtazapine tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "Mitoxantrone Inj",
+        "initialqty": "USP"
+    },
+    {
+        "name": "mometasone furoate",
+        "initialqty": 3
+    },
+    {
+        "name": "mometasone furoate",
+        "initialqty": 2
+    },
+    {
+        "name": "montelukast sodium",
+        "initialqty": 2
+    },
+    {
+        "name": "mycophenolate mofetil",
+        "initialqty": 3
+    },
+    {
+        "name": "nabumetone tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "naproxen sodium tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "naproxen tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "niacin",
+        "initialqty": 2
+    },
+    {
+        "name": "niacin extented-release tablets",
+        "initialqty": 1
+    },
+    {
+        "name": "niacin SA capsule (OTC)",
+        "initialqty": 1
+    },
+    {
+        "name": "nifedipine capsule",
+        "initialqty": 3
+    },
+    {
+        "name": "nifedipine CR tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "nilutamide",
+        "initialqty": 3
+    },
+    {
+        "name": "nitroglycerin SA capsule",
+        "initialqty": 1
+    },
+    {
+        "name": "norethindrone tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "norethindrone/ethinyl estradiol tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "nortriptyline HCL capsule",
+        "initialqty": 2
+    },
+    {
+        "name": "nyamyc topical powder",
+        "initialqty": 3
+    },
+    {
+        "name": "nystatin tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "Octreotide Acetate",
+        "initialqty": 3
+    },
+    {
+        "name": "olanzapine",
+        "initialqty": 1
+    },
+    {
+        "name": "omega-3-acid ethyl esters",
+        "initialqty": 2
+    },
+    {
+        "name": "omeprazole capsule",
+        "initialqty": 2
+    },
+    {
+        "name": "ondansetron ODT tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "ondansetron tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "Oxaliplatin",
+        "initialqty": 3
+    },
+    {
+        "name": "oxandrolone tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "oxybutynin tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "pantoprazole sodium",
+        "initialqty": 1
+    },
+    {
+        "name": "paroxetine HCL tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "pentoxifylline ER tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "perphenazine tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "Phenobarbital",
+        "initialqty": "Hyoscyamine Sulfate"
+    },
+    {
+        "name": "phenoxybenzamine",
+        "initialqty": 1
+    },
+    {
+        "name": "phenytoin sodium capsule",
+        "initialqty": 1
+    },
+    {
+        "name": "pilocarpine",
+        "initialqty": 2
+    },
+    {
+        "name": "pioglitazone hydrochloride",
+        "initialqty": 1
+    },
+    {
+        "name": "PNV Prenatal Multivitamin Plus Iron",
+        "initialqty": 1
+    },
+    {
+        "name": "potassium chloride ER tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "potassium chloride ER tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "potassium chloride ER tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "potassium Iodide",
+        "initialqty": 3
+    },
+    {
+        "name": "pramipexole dihydrochloride tablets",
+        "initialqty": 2
+    },
+    {
+        "name": "pravastatin tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "prazosin capsule",
+        "initialqty": 2
+    },
+    {
+        "name": "prednisone tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "primidone",
+        "initialqty": 3
+    },
+    {
+        "name": "prochlorperazine tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "progesterone capsule",
+        "initialqty": 2
+    },
+    {
+        "name": "propafenone hydrochloride",
+        "initialqty": 1
+    },
+    {
+        "name": "propranolol HCL ER",
+        "initialqty": 3
+    },
+    {
+        "name": "propranolol tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "propylthiouracil tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "pyridostigmine bromide",
+        "initialqty": 1
+    },
+    {
+        "name": "quetiapine fumarate",
+        "initialqty": 1
+    },
+    {
+        "name": "quinapril HCI",
+        "initialqty": 3
+    },
+    {
+        "name": "quinapril/HCTZ tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "rabeprazole sodium",
+        "initialqty": 2
+    },
+    {
+        "name": "raloxifene tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "ramipril",
+        "initialqty": 2
+    },
+    {
+        "name": "ranolazine extended-release tablets",
+        "initialqty": 1
+    },
+    {
+        "name": "rasagiline tablets",
+        "initialqty": 1
+    },
+    {
+        "name": "repaglinide tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "risedronate sodium tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "risperidone",
+        "initialqty": 3
+    },
+    {
+        "name": "rivastigmine tartrate capsule",
+        "initialqty": 2
+    },
+    {
+        "name": "Romidepsin",
+        "initialqty": 3
+    },
+    {
+        "name": "ropinirole hydrochloride",
+        "initialqty": 3
+    },
+    {
+        "name": "rosuvastatin calcium",
+        "initialqty": 2
+    },
+    {
+        "name": "rufinamide",
+        "initialqty": 3
+    },
+    {
+        "name": "rufinamide",
+        "initialqty": 2
+    },
+    {
+        "name": "sertraline HCI",
+        "initialqty": 3
+    },
+    {
+        "name": "sildenafil citrate tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "sildenefil citrate",
+        "initialqty": 1
+    },
+    {
+        "name": "simvastatin tablets",
+        "initialqty": 2
+    },
+    {
+        "name": "spironolactone",
+        "initialqty": 1
+    },
+    {
+        "name": "spironolactone and hydrochlorothiazide",
+        "initialqty": 3
+    },
+    {
+        "name": "sprintec tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "SSKI oral solution",
+        "initialqty": 3
+    },
+    {
+        "name": "sucralfate",
+        "initialqty": 3
+    },
+    {
+        "name": "sulfamethoxazole/trimethoprim DS tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "sulfamethoxazole/trimethoprim DS tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "sulfasalazine",
+        "initialqty": 2
+    },
+    {
+        "name": "sulfasalazine",
+        "initialqty": "USP"
+    },
+    {
+        "name": "sumatriptan succinate",
+        "initialqty": 1
+    },
+    {
+        "name": "tacrolimus capsule",
+        "initialqty": 2
+    },
+    {
+        "name": "tamoxifen citrate tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "tamsulosin hydrochloride",
+        "initialqty": 3
+    },
+    {
+        "name": "telmisartan",
+        "initialqty": 2
+    },
+    {
+        "name": "temazepam",
+        "initialqty": 3
+    },
+    {
+        "name": "temazepam capsule",
+        "initialqty": 1
+    },
+    {
+        "name": "Temsirolimus",
+        "initialqty": 2
+    },
+    {
+        "name": "terazosin capsule",
+        "initialqty": 3
+    },
+    {
+        "name": "testosterone cypionate",
+        "initialqty": 3
+    },
+    {
+        "name": "testosterone gel",
+        "initialqty": 3
+    },
+    {
+        "name": "testosterone gel packet",
+        "initialqty": 3
+    },
+    {
+        "name": "testosterone gel pump",
+        "initialqty": 2
+    },
+    {
+        "name": "testosterone gel tube",
+        "initialqty": 2
+    },
+    {
+        "name": "Tizanidine 4mg tab",
+        "initialqty": 1
+    },
+    {
+        "name": "tolterodine tartrate tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "topiramate",
+        "initialqty": 3
+    },
+    {
+        "name": "topiramate ER",
+        "initialqty": 2
+    },
+    {
+        "name": "Topotecan HCl",
+        "initialqty": 3
+    },
+    {
+        "name": "tramadol hydrochloride/acetaminophen tablets",
+        "initialqty": 3
+    },
+    {
+        "name": "tramadol tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "trandolapril tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "tranylcypromine",
+        "initialqty": 1
+    },
+    {
+        "name": "trazodone tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "tri-previfem tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "tri-sprintec tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "triamcinolone cream",
+        "initialqty": "0.1%"
+    },
+    {
+        "name": "triamcinolone ointment",
+        "initialqty": "0.1%"
+    },
+    {
+        "name": "triamterene",
+        "initialqty": 1
+    },
+    {
+        "name": "triamterene/HCTZ capsule",
+        "initialqty": 2
+    },
+    {
+        "name": "triamterene/HCTZ tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "trifluoperazine HCl tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "trospium chloride tablet",
+        "initialqty": 3
+    },
+    {
+        "name": "valacyclovir HCL tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "valproic acid",
+        "initialqty": 3
+    },
+    {
+        "name": "valsartan hydrochloride",
+        "initialqty": 1
+    },
+    {
+        "name": "valsartan hydrochlorothiazide",
+        "initialqty": 3
+    },
+    {
+        "name": "venlafaxine tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "verapamil HCl",
+        "initialqty": 3
+    },
+    {
+        "name": "verapamil SR tablet",
+        "initialqty": 1
+    },
+    {
+        "name": "verapamil SR tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "VinBLAStine Sulfate",
+        "initialqty": 1
+    },
+    {
+        "name": "Vitamin B Complex capsule (OTC)",
+        "initialqty": 1
+    },
+    {
+        "name": "Vitamin B-6 tablet (OTC)",
+        "initialqty": 3
+    },
+    {
+        "name": "Vitamin D3 capsule (OTC)",
+        "initialqty": 2
+    },
+    {
+        "name": "Vitamin D3 tablet (OTC)",
+        "initialqty": 2
+    },
+    {
+        "name": "warfarin sodium",
+        "initialqty": 3
+    },
+    {
+        "name": "zafirlukast",
+        "initialqty": 3
+    },
+    {
+        "name": "zaleplon",
+        "initialqty": 1
+    },
+    {
+        "name": "zidovudine tablet",
+        "initialqty": 2
+    },
+    {
+        "name": "Zoledronic Acid",
+        "initialqty": 2
+    },
+    {
+        "name": "Zolpidem",
+        "initialqty": 1
+    }
+]
