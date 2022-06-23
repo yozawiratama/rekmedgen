@@ -1,6 +1,6 @@
 {
     "counter": {
-        "patient": 100000,
+        "patient": 100,
         "doctor": 40,
         "consultationRangeStart": 1,
         "consultationRangeEnd": 15

@@ -58,7 +58,7 @@ function savePatient() {
         patients 
         (id, recordno, lname, fname, gender, age, address, contact) 
         VALUES 
-        (${id}, ${recordno}, ${lname}, ${fname}, ${gender}, ${age}, ${address}, ${contact});
+        (${id}, '${recordno}', '${lname}', '${fname}', '${gender}', ${age}, '${address}', '${contact}');
         `
     })
     fs.writeFile('result_patients.sql', strBuilder, function(err) {
@@ -75,7 +75,7 @@ function saveDoctor() {
         doctors 
         (id, doctorrecno, doctorname, address, contact, fieldofspecialization, dusername, dpassword) 
         VALUES 
-        (${id}, ${doctorrecno}, ${doctorname}, ${address}, ${contact}, ${fieldofspecialization}, ${dusername}, ${dpassword});
+        (${id}, '${doctorrecno}', '${doctorname}', '${address}', '${contact}', '${fieldofspecialization}', '${dusername}', '${dpassword}');
         `
     })
     fs.writeFile('result_doctors.sql', strBuilder, function(err) {
@@ -92,7 +92,7 @@ function saveMedicine() {
         medicines 
         (id, medicinename, initalqty, datedelivered) 
         VALUES 
-        (${id}, ${medicinename}, ${initalqty}, ${datedelivered});
+        (${id}, '${medicinename}', ${initalqty}, '${datedelivered}');
         `
     })
     fs.writeFile('result_medicine.sql', strBuilder, function(err) {
@@ -126,7 +126,7 @@ function saveGivenMedicine() {
         given_medicines 
         (id, consultationid, medicineid, qty, mamount, snotes) 
         VALUES 
-        (${id}, ${consultationid}, ${medicineid}, ${qty}, ${mamount}, ${snotes}});
+        (${id}, '${consultationid}', '${medicineid}', '${qty}', '${mamount}', '${snotes}');
         `
     })
     fs.writeFile('result_given_medicine.sql', strBuilder, function(err) {
@@ -143,7 +143,7 @@ function saveLabRecords() {
         lab_records
         (id, patientid, labname, resultstatus, daterelease) 
         VALUES 
-        (${id}, ${patientid}, ${labname}, ${resultstatus}, ${daterelease}});
+        (${id}, '${patientid}', '${labname}', '${resultstatus}', '${daterelease}'});
         `
     })
     fs.writeFile('result_lab_records.sql', strBuilder, function(err) {
@@ -160,7 +160,7 @@ function saveBillings() {
         billings 
         (id, patientid, billamount, billingcreated) 
         VALUES 
-        (${id}, ${patientid}, ${billamount}, ${billingcreated}});
+        (${id}, '${patientid}', '${billamount}', '${billingcreated}');
         `
     })
     fs.writeFile('result_billings.sql', strBuilder, function(err) {
